@@ -35,7 +35,7 @@ _**Keep updating.**_
 ## <span id = "XAI"> **Explainable Artificial Intelligence** </span>
 
 | Title | Venue | Links |
-| :----------------------: | :-------------: | :-----: |
+| :----------------------: | :--------------: | :-----: |
 | Interpretable Machine Learning: A Guide for Making Black Box Models Explainable | **Leanpub 2019** | [Book](https://books.google.co.uk/books?hl=zh-CN&lr=&id=jBm3DwAAQBAJ&oi=fnd&pg=PP1&dq=Interpretable+Machine+Learning+A+Guide+for+Making+Black+Box+Models+Explainable&ots=EgvU-kBDX4&sig=uww7AZd68t6JZO4Jn4GDico-GK4&redir_esc=y#v=onepage&q=Interpretable%20Machine%20Learning%20A%20Guide%20for%20Making%20Black%20Box%20Models%20Explainable&f=false) |
 | A tale of two explanations Enhancing human trust by explaining robot behavior | **Science Robotics 2019** | [Paper](https://www.science.org/doi/full/10.1126/scirobotics.aay4663?casa_token=XImt849QesAAAAAA%3Atpo4c7KJuP96PU3dWFREuqjqESN9R4fcc63oGU86u8TtTYxScBH7mxauQlW4L_QOYtygk57Z8vDB) |
 | Explaining Deep Neural Networks | **arXiv 2020** | [Dissertation](https://arxiv.org/abs/2010.01496) |
