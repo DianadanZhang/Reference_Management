@@ -1,8 +1,6 @@
-# Awesome-Surgical-Video-Analysis 
+# WEN FAN-PhD Project Research-Reference Paper Management 
 
-<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- -->
-_**Keep updating. Welcome to contribute.**_
+_**Keep updating.**_
 
 <!-- TO DO:
 - Add links
