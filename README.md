@@ -23,10 +23,8 @@ _**Keep updating.**_
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Imitation Learning: A Survey of Learning Methods | **ACM 2017** | [Paper](https://dl.acm.org/doi/abs/10.1145/3054912?casa_token=gYlTVQhsQfkAAAAA:v_NwoMb0CUgVJLsXOJrMzpruhLcALDf3_iLH3COepcvG_j4Cgw15cG_i5l-MQpbzXDFYueV9k54) |
-| Imitation from Observation: Learning to Imitate Behaviors from Raw Video
-via Context Translation | **ICRA 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8462901?casa_token=kd1R54auVV8AAAAA:2k-C-iynaiDwrl2h-FHo5Rr60UW1F5lDmk0P8BAolS_rZ7TDeUyT-eAEjUzxinMbk3fwn2F3) |
-| Injective State-Image Mapping facilitates Visual
-Adversarial Imitation Learning | **arXiv 2019** | [Paper](https://ieeexplore.ieee.org/abstract/document/8901821?casa_token=hWctby3RBB4AAAAA:UJzbX7VEWzGkaPk1C0oZPwpxaUORalqZq9NdewpJ_OT4JalCV2l0PZheur_zoHosp-C5uvD_) |
+| Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation | **ICRA 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8462901?casa_token=kd1R54auVV8AAAAA:2k-C-iynaiDwrl2h-FHo5Rr60UW1F5lDmk0P8BAolS_rZ7TDeUyT-eAEjUzxinMbk3fwn2F3) |
+| Injective State-Image Mapping facilitates Visual Adversarial Imitation Learning | **arXiv 2019** | [Paper](https://ieeexplore.ieee.org/abstract/document/8901821?casa_token=hWctby3RBB4AAAAA:UJzbX7VEWzGkaPk1C0oZPwpxaUORalqZq9NdewpJ_OT4JalCV2l0PZheur_zoHosp-C5uvD_) |
 | Imitation Learning from Video by Leveraging Proprioception | **IJCAI 2019** | [Paper](https://arxiv.org/abs/1905.09335) |
 | Recent Advances in Imitation Learning from Observation | **IJCAI 2019** | [Paper](https://arxiv.org/abs/1905.13566) |
 | An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch | **NeurIPS 2020** | [Paper](https://proceedings.neurips.cc/paper/2020/hash/28f248e9279ac845995c4e9f8af35c2b-Abstract.html) |
