@@ -21,7 +21,7 @@ _**Keep updating.**_
 ## <span id = "observation"> **Learn from Observation** </span>
 
 | Title | Venue | Links |
-| :--------------------: | :-------------: | :-----: |
+| :----------------------: | :-------------: | :-----: |
 | Imitation Learning: A Survey of Learning Methods | **ACM 2017** | [Paper](https://dl.acm.org/doi/abs/10.1145/3054912?casa_token=gYlTVQhsQfkAAAAA:v_NwoMb0CUgVJLsXOJrMzpruhLcALDf3_iLH3COepcvG_j4Cgw15cG_i5l-MQpbzXDFYueV9k54) |
 | Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation | **ICRA 2018** | [Paper](https://ieeexplore.ieee.org/abstract/document/8462901?casa_token=kd1R54auVV8AAAAA:2k-C-iynaiDwrl2h-FHo5Rr60UW1F5lDmk0P8BAolS_rZ7TDeUyT-eAEjUzxinMbk3fwn2F3) |
 | Injective State-Image Mapping facilitates Visual Adversarial Imitation Learning | **arXiv 2019** | [Paper](https://ieeexplore.ieee.org/abstract/document/8901821?casa_token=hWctby3RBB4AAAAA:UJzbX7VEWzGkaPk1C0oZPwpxaUORalqZq9NdewpJ_OT4JalCV2l0PZheur_zoHosp-C5uvD_) |
@@ -35,7 +35,7 @@ _**Keep updating.**_
 ## <span id = "XAI"> **Explainable Artificial Intelligence** </span>
 
 | Title | Venue | Links |
-| :--------------------: | :-------------: | :-----: |
+| :----------------------: | :-------------: | :-----: |
 | Interpretable Machine Learning: A Guide for Making Black Box Models Explainable | **Leanpub 2019** | [Book](https://books.google.co.uk/books?hl=zh-CN&lr=&id=jBm3DwAAQBAJ&oi=fnd&pg=PP1&dq=Interpretable+Machine+Learning+A+Guide+for+Making+Black+Box+Models+Explainable&ots=EgvU-kBDX4&sig=uww7AZd68t6JZO4Jn4GDico-GK4&redir_esc=y#v=onepage&q=Interpretable%20Machine%20Learning%20A%20Guide%20for%20Making%20Black%20Box%20Models%20Explainable&f=false) |
 | A tale of two explanations Enhancing human trust by explaining robot behavior | **Science Robotics 2019** | [Paper](https://www.science.org/doi/full/10.1126/scirobotics.aay4663?casa_token=XImt849QesAAAAAA%3Atpo4c7KJuP96PU3dWFREuqjqESN9R4fcc63oGU86u8TtTYxScBH7mxauQlW4L_QOYtygk57Z8vDB) |
 | Explaining Deep Neural Networks | **arXiv 2020** | [Dissertation](https://arxiv.org/abs/2010.01496) |
