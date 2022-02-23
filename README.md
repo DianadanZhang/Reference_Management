@@ -22,7 +22,7 @@ _**Keep updating.**_
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
-| Surgical Data Science: from Concepts to Clinical Translation | **Arxiv 2020** | [Paper](https://arxiv.org/abs/2011.02284) |
+| Imitation Learning: A Survey of Learning Methods | **ACM 2017** | [Paper](https://dl.acm.org/doi/abs/10.1145/3054912?casa_token=gYlTVQhsQfkAAAAA:v_NwoMb0CUgVJLsXOJrMzpruhLcALDf3_iLH3COepcvG_j4Cgw15cG_i5l-MQpbzXDFYueV9k54) |
 
 
 
