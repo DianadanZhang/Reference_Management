@@ -18,6 +18,8 @@ _**Keep updating.**_
 
 [Explainable Artificial Intelligence](#XAI)
 
+[Information](#information)
+
 ## <span id = "observation"> **Learn from Observation** </span>
 
 | Title | Venue | Links |
@@ -40,6 +42,15 @@ _**Keep updating.**_
 | A tale of two explanations Enhancing human trust by explaining robot behavior | **Sci-Rob 2019** | [Paper](https://www.science.org/doi/full/10.1126/scirobotics.aay4663?casa_token=XImt849QesAAAAAA%3Atpo4c7KJuP96PU3dWFREuqjqESN9R4fcc63oGU86u8TtTYxScBH7mxauQlW4L_QOYtygk57Z8vDB) |
 | Explaining Deep Neural Networks | **arXiv 2020** | [PhD Paper](https://arxiv.org/abs/2010.01496) |
 | Explainable robotic systems: understanding goal-driven actions in a reinforcement learning scenario | **NCA 2021** | [Paper](https://link.springer.com/article/10.1007/s00521-021-06425-5) |
+
+
+
+## <span id = "information"> **Information** </span>
+
+| Title | Venue | Links |
+| :----------------------: | :--------------: | :-----: |
+| Opening the Black Box of Deep Neural Networks via Information | **arXiv 2017** | [Paper](https://arxiv.org/abs/1703.00810) |
+| Information Flow in Deep Neural Networks | **arXiv 2022** | [PhD Paper](https://arxiv.org/abs/2202.06749) |
 
 
 <!-- 
